@@ -1,0 +1,23 @@
+.timer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-width: 350px;
+  background-color: #FCFDFF;
+  color: #222830;
+  padding: 2.5em 2em;
+  border-radius: 50px;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034);
+}
+.timer__time {
+  margin: 0;
+  margin-bottom: 0.3em;
+  font-size: 50px;
+  line-height: 1;
+  font-weight: 400;
+  position: relative;
+  z-index: 1;
+  color: #222830;
+}
+
+/*# sourceMappingURL=TimerMain.css.map */
